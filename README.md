@@ -5,7 +5,7 @@ This a complete project from end to end. In this project, we will have a simple 
 # Note
 Now the end point on AWS is deleted. So, the webpage no longer works. But, the neural network model is trained completely with sample reviews and is able to predict positive and negative ones.
 
-# Some reviews
+# Some predicted reviews
 It was a terrible movie, I don't recommend it at all. Your review was NEGATIVE!
 
 It was not so bad, but I don't suggest it to others. Your review was NEGATIVE!
